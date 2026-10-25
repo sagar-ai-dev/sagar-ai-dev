@@ -2,7 +2,7 @@
 
 **AI & Machine Learning Engineer** in Verona, Italy. I build machine-learning systems that can explain their decisions, and the Python services that run them in production.
 
-- 🎓 **MSc in Artificial Intelligence, University of Verona** (October 2026, final grade 105/110)
+- 🎓 **MSc in Artificial Intelligence, University of Verona** (October 2026)
 - 🔬 Focus: **causal AI, explainable AI and anomaly detection on time series**
 - 💼 3+ years of professional software delivery: Python services, FastAPI, full-stack web
 - 📫 **Open to AI / ML engineering roles** in Italy, remote or with relocation
