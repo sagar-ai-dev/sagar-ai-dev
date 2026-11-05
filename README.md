@@ -4,7 +4,7 @@
 
 - 🎓 **MSc in Artificial Intelligence, University of Verona** (October 2026)
 - 🔬 Focus: **causal AI, explainable AI and anomaly detection on time series**
-- 💼 3+ years of professional software delivery: Python services, FastAPI, full-stack web
+- 💼 4 years of professional experience at Codesy, most recently leading the delivery of Python AI-automation tools and FastAPI services
 - 📫 **Open to AI / ML engineering roles** in Italy, remote or with relocation
 
 ---
@@ -40,7 +40,7 @@ Some faults hide inside normal ranges: every sensor looks fine, but the relation
 - **Machine learning:** Python · PyTorch · TensorFlow / Keras · scikit-learn · SHAP · causal discovery (PCMCI, GES, CAM-UV)
 - **Data:** NumPy · pandas · Matplotlib · statistical testing
 - **Engineering:** FastAPI · Flask · REST APIs · PostgreSQL · Docker · Git · Linux
-- **Web:** JavaScript · Vue.js · Angular · Next.js · WordPress / PHP
+- **Web:** JavaScript · React · WordPress / PHP
 
 ---
 
