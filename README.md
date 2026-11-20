@@ -11,7 +11,7 @@
 
 ### ⭐ Featured: my MSc thesis
 
-**[Causal Anomaly Detection from Multivariate Time Series](https://github.com/sagar-ai-dev/Causal-Anomaly-Detection-from-Multivariate-Time-Series)**, supervised by Prof. Daniele Meli
+**[Causal Anomaly Detection from Multivariate Time Series](https://github.com/sagar-ai-dev/Causal-Anomaly-Detection-from-Multivariate-Time-Series)**, supervised by Prof. Daniele Meli; opponent reviewer (controrelatore) Prof. Alessandro Farinelli
 
 Some faults hide inside normal ranges: every sensor looks fine, but the relationship between sensors has changed. I learned causal graphs from healthy data, tracked the regression coefficients along those links with recursive least squares, and raised an alarm when they drifted.
 
